@@ -1,5 +1,5 @@
-# Multiple-linear-regression-in-python
-Multiple linear regression implemented in python for predicting survival in titnaic dataset
+#Logistic regession in python
+Logistic regression implemented in python for predicting survival in titnaic dataset
 
 Data is attached in CSV format
 
